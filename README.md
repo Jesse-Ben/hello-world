@@ -1,2 +1,9 @@
 # hello-world
-test
+
+Hello Earthlings,
+
+Prepare for imminent landings.
+
+Regards,
+
+The Galactic Empire
